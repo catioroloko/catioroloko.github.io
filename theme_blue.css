@@ -1,0 +1,18 @@
+body {background-image:url("deco/bg03.jpg"); background-color: #062294;}
+p {
+    }
+#header {
+    width: 500px; height:min-content; border: 4px solid white; border-radius: 15px; color: #ffffff; background-color: #1B3394; font-size:30px; font-family: Verdana; text-align: center; margin: 5px; padding: 12px; margin-left: auto; margin-right: auto; }
+#footer {
+    width: 500px; height:min-content; border: 4px solid white; border-radius: 15px; color: #ffffff; background-color: #1B3394; font-size:15px; font-family: Verdana; text-align: center; margin: 5px; padding: 12px; margin-left: auto; margin-right: auto; }
+.main_button {
+    width: 500px; height:min-content; border: 4px solid white; border-radius: 15px; color: #ffffff; background-color: #1B3394; font-size:20px; font-family: Verdana; text-align: center; margin: 5px; padding: 12px; margin-left: auto; margin-right: auto; }
+.main_button_large {
+    width: 700px; height:min-content; border: 4px solid white; border-radius: 15px; color: #ffffff; background-color: #1B3394; font-size:18px; font-family: Verdana; text-align: center; margin: 5px; padding: 12px; margin-left: auto; margin-right: auto; }
+a:hover {color: #ffffff;font-weight: bold;}
+a:visited {color: #ffffff; text-decoration:none;}
+a:link {color: #ffffff; text-decoration: none;}
+.disciplines3 {text-align: center; width: 33%;}
+.disciplines3table {
+    width: 475px;
+}
